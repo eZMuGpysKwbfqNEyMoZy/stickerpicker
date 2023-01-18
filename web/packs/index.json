@@ -1,9 +1,6 @@
 {
   "homeserver_url": "https://example.com",
   "packs": [
-    "your_telegram_imported_pack.json",
-    "another_telegram_imported_pack.json",
-    "scalar-rabbit.json",
-    "scalar-loading_artist.json"
+    "pack.json"
   ]
 }
