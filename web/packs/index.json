@@ -1,6 +1,10 @@
 {
   "homeserver_url": "https://a2c87sbiui5t1jjs.hopto.org",
   "packs": [
-    "pack.json"
+    "hentai-memes.json",
+    "mochi-mochi-peach-cat.json",
+    "peach-and-goma.json",
+    "spy-x-family.json",
+    "yotsuba.json"
   ]
 }
